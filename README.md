@@ -3,7 +3,8 @@
 🚀 Now I continue to build myself up in front-end development. I'm eager to participate in any interesting project you might offer me!
 
 
-💬 How to contact me:
+💬 How to contact me:  
+
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Hatton_Romero)
 
 ### 🛠 My skills:
