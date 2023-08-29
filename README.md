@@ -1,6 +1,6 @@
 ### Hello, I'm Oleg 👋
 📫 I am a self-taught web-developer. Over the past year, I've explored a stack of technologies that includes HTML, CSS, React and Node.js. 
-🚀 Now I continue to build myself up in front-end development. I'm eager to participate in any interesting project you might offer me!
+🚀 Now I continue to build myself up in web development. I'm eager to participate in any interesting project you might offer me!
 
 
 💬 How to contact me:  
